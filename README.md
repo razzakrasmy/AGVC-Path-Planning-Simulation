@@ -20,8 +20,7 @@ This MATLAB project simulates autonomous navigation in a soccer field environmen
 - Dynamic mesh and grid creation
 
 ## 📷 Simulation Snapshot
-*(Optional: Add an image of your MATLAB plot here in 
-\![Simulation Screenshot](AGVCSimulation_screenshot.png)
+![Simulation Screenshot](AGVCSimulation_screenshot.png)
 
 ## 📂 File Structure
 
